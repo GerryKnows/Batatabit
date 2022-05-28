@@ -1,0 +1,23 @@
+
+.main-exchange-container{
+    width:768px;
+    margin: 0 auto;
+}
+.product-card--General{
+    display: flex;
+    flex-wrap: wrap;
+    width:768px;
+    margin: 0 auto;
+}
+.product-card--container {
+    width: 300px;
+}
+.plans-container--general {
+    justify-content: center;
+}
+
+footer{
+   padding-left: 20%;
+   padding-right: 20%;
+    
+}
